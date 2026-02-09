@@ -49,7 +49,7 @@ Follow these steps carefully for the trainer to work properly:
    Start **Darksiders III** and wait until it is **fully loaded into gameplay** (not just the main menu — you need to be in control of Fury in the world).
 
 3. **Run the trainer**  
-   Only **after** the game has fully loaded, run the **trainer.exe** (as administrator recommended).
+   Only **after** the game has fully loaded, run the **Darksiders 3 (+19) {mul0} [v215.465].exe** (as administrator recommended).
 
 4. **Connect to the game**  
    If the game process is detected successfully, the **Connect** button (broken chain icon 🔗) in the upper-left panel of the trainer will become available.  
